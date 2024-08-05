@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@prisma/client": "^5.17.0",
+    "axios": "^1.7.3",
+    "react-router-dom": "^6.26.0",
+    "styled-components": "^6.1.12"
+  },
+  "devDependencies": {
+    "prisma": "^5.17.0"
+  }
+}
