@@ -153,7 +153,7 @@ def send_email(to_email, staff_name, password, hospital_name):
         smtp_server = "smtp.gmail.com"
         smtp_port = 587
         smtp_user = "gowthambalaji344@gmail.com"  # Your Gmail address
-        smtp_password = "cuvx vatg xmts dggk"  # Your App Password
+        smtp_password = ""  # Your App Password
 
         # Email content
         subject = "Your Staff Account Details"
